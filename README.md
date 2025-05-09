@@ -9,7 +9,8 @@ Throughout my career I've found that most solutions already exist, but you usual
 
 Feel free to provide feedback or reach out to me. Collaboration is the lifeblood of growth!
 
-<a html="https://www.linkedin.com/in/suraj-ganguly/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/suraj-ganguly/">LinkedIn</a>
+</p>
 <a href="mailto:suraj@shaman-networks.net">Email</a>
 <!--
 **dub0ught/dub0ught** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
